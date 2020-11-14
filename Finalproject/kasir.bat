@@ -1,0 +1,1 @@
+"C:/Users/ROG/AppData/Local/Programs/Python/Python37/python.exe" "f:/Kuliah/Pemrograman Dasar/Finalproject/welcome.py"
